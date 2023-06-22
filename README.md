@@ -1,2 +1,2 @@
 # Grader
-Simple Python script to calculate CGPA and SGPA manually n
+Simple Python script to calculate CGPA and SGPA manually
